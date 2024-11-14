@@ -1,6 +1,6 @@
 # 🌟 AiSignLanguage 🌟
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AiSignLang/AiSignLanguage)
+![GitHub repo size](https://img.shields.io/github/repo-size/AiSignLang)
 ![GitHub contributors](https://img.shields.io/github/contributors/AiSignLang/AiSignLanguage)
 ![GitHub stars](https://img.shields.io/github/stars/AiSignLang/AiSignLanguage?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AiSignLang/AiSignLanguage?style=social)
