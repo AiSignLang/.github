@@ -1,10 +1,7 @@
 # 🌟 AiSignLanguage 🌟
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AiSignLang)
-![GitHub contributors](https://img.shields.io/github/contributors/AiSignLang/AiSignLanguage)
-![GitHub stars](https://img.shields.io/github/stars/AiSignLang/AiSignLanguage?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AiSignLang/AiSignLanguage?style=social)
-![GitHub issues](https://img.shields.io/github/issues/AiSignLang/AiSignLanguage)
+[Webppage](https://aisl.lambourne.at)
+
 
 Welcome to the **AiSignLanguage** project! This repository is dedicated to developing an AI-driven sign language learning app. Our mission is to bridge the communication gap for the Deaf and Hard of Hearing community using cutting-edge technology. 🤖🧏‍♂️
 
