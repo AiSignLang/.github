@@ -13,7 +13,7 @@ Here's what our app can do:
 ## License
 
 Just a heads up: this project is protected, which means you can't make changes, redistribute, or sell it.
-We ask for your understanding, that as of right now we are not able to provide you with a production version of the project. Neither will be open-source our product for the time being.
+We ask for your understanding, that, as of right now, we are not able to provide you with a production version of the project. Neither will we open-source our product for the time being.
 If you are interested nonetheless, please contact us via [Email](mailto:aisl@lambourne.at).
 
 ## Connect With Us
