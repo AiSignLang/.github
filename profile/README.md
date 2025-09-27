@@ -1,60 +1,33 @@
 # 🌟 AiSignLanguage 🌟
 
-[Webppage](https://aisl.lambourne.at)
+Hey there! Welcome to the AiSignLanguage project. We're on a mission to make communication easier and more accessible for the Deaf and Hard of Hearing community through the power of AI. Imagine being able to translate sign language into text in real-time – that's what we're working towards!
+Of course, that process can be reversed. That way, we can translate text to sign language.
 
+Our goal is to create a machine learning model that can accurately translate sign language into text. We're also focused on designing an app that's intuitive and easy to use. But more than that, we're committed to promoting inclusivity and making sure everyone can learn sign language whenever and wherever they want.
 
-Welcome to the **AiSignLanguage** project! This repository is dedicated to developing an AI-driven sign language learning app. Our mission is to bridge the communication gap for the Deaf and Hard of Hearing community using cutting-edge technology. 🤖🧏‍♂️
+Here's what our app can do:
+- Real-time Translation: Translate sign language to text instantly, making communication smoother.
+- User-Friendly Interface: Our app is designed to be simple and easy to use, so you can start using it right away.
+- Multi-Language Support: While we're starting with ÖGS (Austrian Sign Language), we plan to expand to other sign languages in the future.
 
-## 🎯 Objectives
-- Develop a machine learning model to accurately translate sign language into text.
-- Create an intuitive and user-friendly interface.
-- Promote inclusivity and accessibility for all.
-- Make learning Sign Language Accessible to anyone, anywhere, anytime.
+## License
 
-## 🛠️ Features
-- **Real-time Translation**: Translate sign language to text instantly.
-- **User-Friendly Interface**: Simple and easy-to-use application.
-- **Multi-Language Support**: Expandable to various sign languages around the world. (For now only ÖGS)
+Just a heads up: this project is protected, which means you can't make changes, redistribute, or sell it.
+We ask for your understanding, that as of right now we are not able to provide you with a production version of the project. Neither will be open-source our product for the time being.
+If you are interested nonetheless, please contact us via [Email](mailto:aisl@lambourne.at).
 
-## 🚀 Getting Started
+## Connect With Us
 
-### Prerequisites
-Make sure you have the following installed:
-- Python 3.10
-- pip
-- node
-  
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/AiSignLang/AiSignLanguage.git
-    cd AiSignLanguage
-    ```
-2. Install AI Python Server:
-    ```bash
-    cd AI
-    cd TFServing
-    pip install -r requirements.txt
-    ```
-    (this will take a while)
-3. Run AI Server
-  ```bash
-  python3 app.py
-  ```
-4. Running Frontend and Backend
-   * Coming soon
+Want to get in touch? Check out our [website](aisl.at) or drop us an email:
+- Elija Lambourne: [Email](mailto:elija@lambourne.at)
+- Alexander Resch: [Email](mailto:a.resch@htblaleonding.onmicrosoft.com)
+- Tsolmonbat Batbold: [Email](mailto:tsolmonbat.batbold@htblaleonding.onmicrosoft.com)
+- Manuel Hagleitner: [Email](mailto:m.hagleitner@htblaleonding.onmicrosoft.com)
 
-## 📄 License
-This project is protected from any change. This change includes, but is not exclusive to, changing, redistribute or selling this project.
+We'd love to hear from you!
 
-## 🌐 Connect With Us
-- **Website**: [aisl.lambourne.at](http://aisl.lambourne.at)
-- **Elija Lambourne**: [Email](mailto:elija@lambourne.at)
-- **Alexander Resch**: [Email](mailto:a.resch@HTBLALeonding.onmicrosoft.com)
-- **Tsolmonbat Batbold**: [Email](mailto:t.batbold@HTBLALeonding.onmicrosoft.com)
+## Acknowledgements
 
-## 🙏 Acknowledgements
-A big thank you to all our contributors and supporters! Your dedication and hard work make this project possible. 🌟
+A huge thank you to all our contributors and supporters! Your hard work and dedication are what make this project possible. 🌟
 
-
-Stundenliste: https://htblaleonding-my.sharepoint.com/:x:/g/personal/a_resch_htblaleonding_onmicrosoft_com/ERmtFdofuaBLgduGA_l7R3MBVpt3m9W6PiUv-Gre5GYXNg?e=hT4xv4
+Thanks for stopping by, and we hope you'll join us on this exciting journey!
